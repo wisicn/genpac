@@ -5,6 +5,8 @@
 * 代理规则基于[gfwlist][]
 * 支持用户自定义规则
 * 获取gfwlist时允许独立设置代理
+###Attention
+This project is *dropped* because of a better one [gfwlist2pac](https://github.com/wisicn/gfwlist2pac)
 
 ### 要求
 
